@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="styles.css" />
+
 <h3 > Olá, me chamo Éderson Vidal Junior! </h3>
 
 <h5>Conhecimentos de Linguagens:</h5>
