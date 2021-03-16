@@ -1,10 +1,8 @@
-<h3> Olá, me chamo Éderson Vidal Junior! </h3>
+<h2> Olá, me chamo Éderson Vidal Junior! </h2>
 
-<h5>Tenho conhecimento nessas linguagens:</h5>
-
-
+<h4>Tenho conhecimento nessas linguagens:</h4>
 <table border="3">
-  
+
   <tr align="center">
     <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/Python.png" width= "50"></td>
     <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/java.png" width= "50" >
@@ -23,8 +21,7 @@
   
 </table>
 
-<h5>E também, sei usar esses programas:</h5>
-
+<h4>E também, sei usar esses programas:</h4>
 <table border="3">
 <tr align="center">
     <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/photoshop.png" width= "50"></td>
@@ -34,8 +31,8 @@
   
 </table>
 
-<h5>Você pode entrar em contato comigo por aqui:</h5>
 
+<h4>Você pode entrar em contato comigo por aqui:</h4>
 <table border="3">
 <tr align="center">
     <td>
