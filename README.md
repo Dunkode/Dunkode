@@ -28,14 +28,23 @@
 <table border="3">
 <tr align="center">
     <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/photoshop.png" width= "50"></td>
-    <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/vegas.png" width= "50" >
-    <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/excel.png" width= "50">
+    <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/vegas.png" width= "50" ></td>
+    <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/excel.png" width= "50"></td>
   </tr>
-
-<h5>Você pode me encontrar por aqui:</h5>
   
 </table>
 
+<h5>Você pode entrar em contato comigo por aqui:</h5>
+
+<table border="3">
+<tr align="center">
+    <td>
+      <a href="edersonvidal137@gmail.com"><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/gmail.png" width= "50"></a></td>
+    <td>
+  <a href="https://www.linkedin.com/in/edersonvidal/"><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/linkedin.png" width= "50" ></a></td>
+  </tr>
+  
+</table>
   
 <!---
 Dunkode/Dunkode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
