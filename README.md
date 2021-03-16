@@ -5,10 +5,10 @@
 
   <tr align="center">
     <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/Python.png" width= "50"></td>
-    <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/java.png" width= "50" >
-    <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/html5.png" width= "50">
-    <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/css3.png" width= "50" >
-    <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/oracle-sql.png" width= "50" >
+    <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/java.png" width= "50" ></td>
+    <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/html5.png" width= "50"></td>
+    <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/css3.png" width= "50" ></td>
+    <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/oracle-sql.png" width= "50" ></td>
   </tr>
   
   <tr>
