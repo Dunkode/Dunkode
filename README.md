@@ -33,13 +33,6 @@
 
 
 <h4>Você pode entrar em contato comigo por aqui:</h4>
-<table border="3">
-<tr align="center">
-    <td>
-      <a href="edersonvidal137@gmail.com"><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/gmail.png" width= "30"></a></td>
-    <td>
-  <a href="https://www.linkedin.com/in/edersonvidal/"><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/linkedin.png" width= "30" ></a></td>
-  </tr>
-  
-</table>
-  
+ 
+ [![Badge LinkedIn](https://img.shields.io/badge/-LinkedIn-373737?style=fla-squaret&logo=linkedin&logoColor=blue&color=white)](https://www.linkedin.com/in/edersonvidal/)
+ [![Badge Gmail](https://img.shields.io/badge/-Gmail-373737?style=fla-squaret&logo=gmail&logoColor=red&color=white)](mailto:edersonvidal137@gmail.com)
