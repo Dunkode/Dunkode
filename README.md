@@ -4,7 +4,7 @@
 <table border="0">
     <tr/><p/><b/>• Linguagens de Programação
     <tr align="center">
-        <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/python.png" width= "55" height= "55"></td>
+        <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/Python.png" width= "55" height= "55"></td>
         <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/java.png" width= "55" height= "55"></td>
         <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/delphi.png" width= "55" height= "55"></td>
     </tr>
