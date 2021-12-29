@@ -2,7 +2,7 @@
 
 <h2>🟢 Tenho conhecimento nessas linguagens:</h4>
 <table border="0">
-    <tr/><h4/>• Linguagens de Programação
+    <tr/><h3/>• Linguagens de Programação
     <tr align="center">
         <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/Python.png" width= "55" height= "55"></td>
         <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/java.png" width= "55" height= "55"></td>
@@ -11,7 +11,7 @@
 </table>
 
 <table border="0">
-    <tr/><h4/>• Linguagens Mobile
+    <tr/><h3/>• Linguagens Mobile
     <tr align="center">
         <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/flutter.png" width= "55" height= "55"></td>
         <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/android.png" width= "55" height= "55"></td>
@@ -19,7 +19,7 @@
 </table>
 
 <table border="0">
-    <tr/><h4/>• Linguagens de Marcação
+    <tr/><h3/>• Linguagens de Marcação
     <tr align="center">
         <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/html5.png" width= "55" height= "55"></td>
         <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/css3.png" width= "55" height= "55"></td>
@@ -27,7 +27,7 @@
 </table>
 
 <table border="0">
-    <tr/><h4/>• Bases de Dados
+    <tr/><h3/>• Bases de Dados
     <tr align="center">
         <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/oracle-sql.png" width= "55" height= "55"></td>
         <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/sqlite.png" width= "55" height= "55"></td>
