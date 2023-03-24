@@ -1,51 +1,21 @@
-<h1> Olá, me chamo Éderson Vidal Junior! 👋</h2>
+## ❗ Olá, meu nome é <strong>Éderson Vidal Junior!</strong> 👋
 
-<h2>🟢 Tenho conhecimento nessas linguagens:</h4>
-<table border="0">
-    <tr/><h3/>• Linguagens de Programação
-    <tr align="center">
-        <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/Python.png" width= "55" height= "55"></td>
-        <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/java.png" width= "55" height= "55"></td>
-        <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/delphi.png" width= "55" height= "55"></td>
-    </tr>
-</table>
+> A tecnologia vem a nossas vidas para agregar, e não ocupar espaço. 
 
-<table border="0">
-    <tr/><h3/>• Linguagens Mobile
-    <tr align="center">
-        <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/flutter.png" width= "55" height= "55"></td>
-        <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/android.png" width= "55" height= "55"></td>
-    </tr>
-</table>
+* 👨‍💻 Trabalho como desenvolvedor FullStack a 2 anos na [Alfasig](https://alfasig.com.br/);
 
-<table border="0">
-    <tr/><h3/>• Linguagens de Marcação
-    <tr align="center">
-        <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/html5.png" width= "55" height= "55"></td>
-        <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/css3.png" width= "55" height= "55"></td>
-    </tr>
-</table>
+* 👨‍🎓 Estou cursando Ciência da Computação na [Atitus](https://www.atitus.edu.br/);
 
-<table border="0">
-    <tr/><h3/>• Bases de Dados
-    <tr align="center">
-        <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/oracle-sql.png" width= "55" height= "55"></td>
-        <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/sqlite.png" width= "55" height= "55"></td>
-        <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/postgres.png" width= "55" height= "55"></td>
-    </tr>
-</table>
-   
-<h2>🔵 E também, sei usar esses programas:</h2>
-<table border="0">
-<tr align="center">
-    <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/photoshop.png" width= "45" height= "45"></td>
-    <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/vegas.png" width= "45" height= "45"></td>
-    <td><img src="https://github.com/Dunkode/Dunkode/blob/main/rep/excel.png" width= "45" height= "45"></td>
-</tr>
+----
 
-</table>
+##  📚 Meus conhecimentos
+![backend-languages](https://devicons.dev.br/icons?icon=Python,Java&theme=dark)
 
+![mobile-languages](https://devicons.dev.br/icons?icon=Flutter,React&theme=dark)
 
-<h2>👤 Você pode entrar em contato comigo por aqui:</h2>
+![databases](https://devicons.dev.br/icons?icon=PostgreSQL,SQLite&theme=dark)
 
- [![Badge LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=blue&color=black)](https://www.linkedin.com/in/edersonvidal/)  [![Badge Gmail](https://img.shields.io/badge/-Gmail-373737?style=for-the-badge&logo=gmail&logoColor=red&color=black)](mailto:edersonvidal137@gmail.com)
+---
+
+## ⭐ Informações sobre meu GitHub
+![github-status](https://github-readme-stats.vercel.app/api?username=dunkode&show_icons=true&theme=dark)
