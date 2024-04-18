@@ -2,7 +2,7 @@
 
   
 
-> A tecnologia vem a nossas vidas para agregar, e não ocupar espaço.
+> A tecnologia vem à nossas vidas para agregar, e não ocupar espaço.
 
   
 
@@ -10,7 +10,7 @@
 
   
 
-* 👨‍🎓 Estou cursando Ciência da Computação na [Atitus](https://www.atitus.edu.br/);
+* 👨‍🎓 Sou formado em Ciência da Computação na [Atitus](https://www.atitus.edu.br/);
 
   
 
@@ -61,11 +61,12 @@
 
   
 
-### IDE's do habito:
+### IDE's do hábito:
 
 <div  style="display: flex; flex-direction: row;">
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="50"/>
 <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg"  width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="50"/>
 </div>
 
   
