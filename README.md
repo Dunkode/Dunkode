@@ -6,13 +6,15 @@
 
   
 
-* 👨‍💻 Trabalho como desenvolvedor FullStack a 2 anos na [Alfasig](https://alfasig.com.br/);
+* 👨‍💻 Trabalho como desenvolvedor Backend a 4 anos;
 
-  
+
 
 * 👨‍🎓 Sou formado em Ciência da Computação na [Atitus](https://www.atitus.edu.br/);
 
-  
+
+
+* ☕ Tenho a [certificação OCAJP8](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5563886F1B0DD70AAC4B46BC5E158071225C76E3759A6C7B8F4B8EA1FE896976);
 
 ----
 
