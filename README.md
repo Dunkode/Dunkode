@@ -6,7 +6,7 @@
 
   
 
-* 👨‍💻 Trabalho como desenvolvedor Backend a 4 anos;
+* 👨‍💻 Trabalho como desenvolvedor Backend a 6 anos;
 
 
 
